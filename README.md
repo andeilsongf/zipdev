@@ -4,7 +4,7 @@ First, run the development server:
 
 ```bash
 npm i
-npm run dev
+npm run start
 ```
 
 Open [http://127.0.0.1](http://127.0.0.1:8080) with your browser to see the result.
