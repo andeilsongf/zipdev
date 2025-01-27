@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="216.345" height="44.696" viewBox="0 0 216.345 44.696">
+    <defs>
+        <clipPath id="d0am22jcha">
+            <path data-name="Rectangle 101" style="fill:#ddba7c" d="M0 0h216.345v44.696H0z"/>
+        </clipPath>
+    </defs>
+    <g data-name="Glamour Logo">
+        <g data-name="Group 50" style="clip-path:url(#d0am22jcha)">
+            <path data-name="Path 97" d="M28.656 22.491H15.3v7.236h4.89c0 2.714-1.411 7-4.722 7-4.558 0-4.939-5.488-4.939-14.292 0-7.96.6-14.411 4.722-14.411 3.636 0 3.963 3.135 4.233 8.2h9.443C28.927 6.693 24.64.06 15.034.06 3.148.06 0 12.06 0 23.456c0 12.422 4.125 21.226 14.22 21.226a11.016 11.016 0 0 0 8.466-4.161l1.554 3.255h4.417z" transform="translate(0 .014)" style="fill-rule:evenodd;fill:#ddba7c"/>
+            <path data-name="Path 98" d="M118.685 0c-11.5 0-15.034 11.336-15.034 22.312s3.529 22.311 15.034 22.311 15.034-11.336 15.034-22.311S130.191 0 118.685 0m0 36.663c-4.5 0-4.5-5.909-4.5-14.351s0-14.352 4.5-14.352 4.505 5.91 4.505 14.352 0 14.351-4.505 14.351" transform="translate(23.943)" style="fill-rule:evenodd;fill:#ddba7c"/>
+            <path data-name="Path 99" d="M180.911 12.838c0-8.443-5.644-12.182-12.971-12.182H153.4v42.935h9.769V25.017h3.256l4.83 18.573h9.661l-6.459-20.864a10.591 10.591 0 0 0 6.459-9.889m-15.848 4.976h-1.9V8.286h1.629c3.256 0 6.349.362 6.349 4.824 0 3.437-2.388 4.7-6.079 4.7" transform="translate(35.434 .152)" style="fill-rule:evenodd;fill:#ddba7c"/>
+            <path data-name="Path 100" d="M34.458.678h-9.769v42.935H47.7v-9.689H34.458z" transform="translate(5.703 .157)" style="fill-rule:evenodd;fill:#ddba7c"/>
+            <path data-name="Path 101" d="M93.844.684 90.314 21 86.788.7H70.764v42.929H80.6v-32.8h.108l6.133 32.8h4.192v-.012h2.755l6.133-32.8h.11v32.8h9.837V.684z" transform="translate(16.346 .158)" style="fill-rule:evenodd;fill:#ddba7c"/>
+            <path data-name="Path 102" d="M147.3.678v29.789c0 3.242-.97 6-4.194 6.027-3.224-.022-4.194-2.785-4.194-6.027V.678h-9.77v29.305c0 9.226 3.838 14.55 12.8 14.545.406 0 .8 0 1.192-.022.389.021.672 0 1.078 0 8.846 0 12.853-5.3 12.853-14.523V.678z" transform="translate(29.831 .157)" style="fill-rule:evenodd;fill:#ddba7c"/>
+            <path data-name="Path 103" d="M67.363.694H52.578l-8.249 42.933h9.878l1.52-8.683h8.489l1.519 8.683h9.879zm-10.28 26.652 2.8-17.044 2.973 17.044z" transform="translate(10.24 .161)" style="fill-rule:evenodd;fill:#ddba7c"/>
+            <path data-name="Path 104" d="M174.8.637a1.3 1.3 0 1 1-1.309 1.291A1.291 1.291 0 0 1 174.8.637m0 2.405a1.071 1.071 0 0 0 1.066-1.114 1.07 1.07 0 1 0-2.138 0 1.072 1.072 0 0 0 1.072 1.114m-.506-1.867h.586c.361 0 .531.143.531.435a.39.39 0 0 1-.4.412l.435.67h-.254l-.414-.652h-.25v.652h-.235zm.235.673h.246c.209 0 .4-.011.4-.25 0-.2-.174-.233-.334-.233h-.313z" transform="translate(40.075 .148)" style="fill-rule:evenodd;fill:#ddba7c"/>
+        </g>
+    </g>
+</svg>
